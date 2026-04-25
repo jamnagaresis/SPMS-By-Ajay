@@ -34,3 +34,15 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+## Supabase Keep-Alive (GitHub Actions)
+
+This project includes a GitHub Action to prevent your Supabase project from pausing due to inactivity (common on the free tier).
+
+### Setup:
+1. Go to your GitHub Repository **Settings** > **Secrets and variables** > **Actions**.
+2. Add the following **Repository secrets**:
+   - `SUPABASE_URL`: Your Supabase Project URL (e.g., `https://xyz.supabase.co`).
+   - `SUPABASE_ANON_KEY`: Your Supabase Anonymous API Key.
+3. The action is scheduled to run every 3 days. You can also trigger it manually from the **Actions** tab.
+
