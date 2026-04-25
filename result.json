@@ -1,0 +1,2365 @@
+{
+  "payroll": [
+    {
+      "hrpn": "20032914",
+      "name": "Dr.Chirag B Pandya",
+      "designation": "Specialist",
+      "earning": {
+        "basic": 122600,
+        "da": 85330,
+        "hra": 19616,
+        "cla": 270,
+        "medAllow": 1000,
+        "transAllow": 3600,
+        "bookAllow": 100,
+        "nppAllow": 24520,
+        "esisAllow": 200,
+        "gross": 257236
+      },
+      "deduction": {
+        "incomeTax": 0,
+        "profTax": 200,
+        "gpfReg": 0,
+        "npsReg": 19371,
+        "govtFund": 480,
+        "govtSaving": 1120
+      },
+      "gross": 257236,
+      "totalDed": 21171,
+      "netPay": 236065
+    },
+    {
+      "hrpn": "20032920",
+      "name": "Dr.Miten C Prajapati",
+      "designation": "Specialist",
+      "earning": {
+        "basic": 119000,
+        "da": 82824,
+        "hra": 19040,
+        "cla": 270,
+        "medAllow": 1000,
+        "transAllow": 3600,
+        "bookAllow": 100,
+        "nppAllow": 23800,
+        "esisAllow": 200,
+        "gross": 249834
+      },
+      "deduction": {
+        "incomeTax": 0,
+        "profTax": 200,
+        "gpfReg": 0,
+        "npsReg": 18802,
+        "govtFund": 480,
+        "govtSaving": 1120
+      },
+      "gross": 249834,
+      "totalDed": 20602,
+      "netPay": 229232
+    },
+    {
+      "hrpn": "20032953",
+      "name": "Dr.Sonal Shvetalkumar Shah",
+      "designation": "Specialist",
+      "earning": {
+        "basic": 215900,
+        "da": 137750,
+        "hra": 34544,
+        "cla": 270,
+        "medAllow": 1000,
+        "transAllow": 3600,
+        "bookAllow": 100,
+        "nppAllow": 21600,
+        "esisAllow": 200,
+        "gross": 414964
+      },
+      "deduction": {
+        "incomeTax": 256000,
+        "profTax": 200,
+        "gpfReg": 41666,
+        "npsReg": 0,
+        "govtFund": 480,
+        "govtSaving": 1120
+      },
+      "gross": 414964,
+      "totalDed": 299466,
+      "netPay": 115498
+    },
+    {
+      "hrpn": "20033118",
+      "name": "Dr.Vinod Rupabhai Sangada",
+      "designation": "Insurance Medical Officer",
+      "earning": {
+        "basic": 91100,
+        "da": 63406,
+        "hra": 14576,
+        "cla": 270,
+        "medAllow": 1000,
+        "transAllow": 3600,
+        "bookAllow": 100,
+        "nppAllow": 18220,
+        "esisAllow": 200,
+        "gross": 192472
+      },
+      "deduction": {
+        "incomeTax": 0,
+        "profTax": 200,
+        "gpfReg": 0,
+        "npsReg": 14394,
+        "govtFund": 480,
+        "govtSaving": 1120
+      },
+      "gross": 192472,
+      "totalDed": 16194,
+      "netPay": 176278
+    },
+    {
+      "hrpn": "20033459",
+      "name": "Dr.Nisarg Dipakbhai Bhavsar",
+      "designation": "Insurance Medical Officer",
+      "earning": {
+        "basic": 74000,
+        "da": 51504,
+        "hra": 11840,
+        "cla": 270,
+        "medAllow": 1000,
+        "transAllow": 3600,
+        "bookAllow": 100,
+        "nppAllow": 14800,
+        "esisAllow": 200,
+        "gross": 157314
+      },
+      "deduction": {
+        "incomeTax": 20000,
+        "profTax": 200,
+        "gpfReg": 0,
+        "npsReg": 11692,
+        "govtFund": 480,
+        "govtSaving": 1120
+      },
+      "gross": 157314,
+      "totalDed": 33492,
+      "netPay": 123822
+    },
+    {
+      "hrpn": "20033631",
+      "name": "Dr.Pragnesh Rameshbhai Shah",
+      "designation": "Insurance Medical Officer",
+      "earning": {
+        "basic": 142400,
+        "da": 99110,
+        "hra": 22784,
+        "cla": 270,
+        "medAllow": 1000,
+        "transAllow": 3600,
+        "bookAllow": 100,
+        "nppAllow": 28480,
+        "esisAllow": 200,
+        "gross": 297944
+      },
+      "deduction": {
+        "incomeTax": 81000,
+        "profTax": 200,
+        "gpfReg": 41666,
+        "npsReg": 0,
+        "govtFund": 480,
+        "govtSaving": 1120
+      },
+      "gross": 297944,
+      "totalDed": 124466,
+      "netPay": 173478
+    },
+    {
+      "hrpn": "20033637",
+      "name": "Dr.Hardi Ashvinbhai Patel",
+      "designation": "Insurance Medical Officer",
+      "earning": {
+        "basic": 77900,
+        "da": 54218,
+        "hra": 12464,
+        "cla": 270,
+        "medAllow": 1000,
+        "transAllow": 3600,
+        "bookAllow": 100,
+        "nppAllow": 15580,
+        "esisAllow": 200,
+        "gross": 165332
+      },
+      "deduction": {
+        "incomeTax": 0,
+        "profTax": 200,
+        "gpfReg": 0,
+        "npsReg": 12309,
+        "govtFund": 480,
+        "govtSaving": 1120
+      },
+      "gross": 165332,
+      "totalDed": 14109,
+      "netPay": 151223
+    },
+    {
+      "hrpn": "20033644",
+      "name": "Dr.Ravi Ajit Varma",
+      "designation": "Insurance Medical Officer",
+      "earning": {
+        "basic": 80900,
+        "da": 56306,
+        "hra": 12944,
+        "cla": 270,
+        "medAllow": 1000,
+        "transAllow": 3600,
+        "bookAllow": 100,
+        "nppAllow": 16180,
+        "esisAllow": 200,
+        "gross": 171500
+      },
+      "deduction": {
+        "incomeTax": 17000,
+        "profTax": 200,
+        "gpfReg": 0,
+        "npsReg": 12783,
+        "govtFund": 480,
+        "govtSaving": 1120
+      },
+      "gross": 171500,
+      "totalDed": 31583,
+      "netPay": 139917
+    },
+    {
+      "hrpn": "20033690",
+      "name": "Dr.Amrish Sureshchandra Pandya",
+      "designation": "Insurance Medical Officer (Ayush)",
+      "earning": {
+        "basic": 132500,
+        "da": 92220,
+        "hra": 21200,
+        "cla": 270,
+        "medAllow": 1000,
+        "transAllow": 3600,
+        "bookAllow": 100,
+        "nppAllow": 26500,
+        "recoveryOfPay": 0,
+        "esisAllow": 200,
+        "gross": 277590
+      },
+      "deduction": {
+        "profTax": 200,
+        "gpfReg": 25000,
+        "govtFund": 480,
+        "govtSaving": 1120
+      },
+      "gross": 277590,
+      "totalDed": 26800,
+      "netPay": 250790
+    },
+    {
+      "hrpn": "20033700",
+      "name": "Dr.Shrilekha Vasant Chitte",
+      "designation": "Insurance Medical Officer (Ayush)",
+      "earning": {
+        "basic": 114400,
+        "da": 79622,
+        "hra": 18304,
+        "cla": 270,
+        "medAllow": 1000,
+        "transAllow": 3600,
+        "bookAllow": 100,
+        "nppAllow": 22880,
+        "recoveryOfPay": -108690,
+        "esisAllow": 200,
+        "gross": 131686
+      },
+      "deduction": {
+        "profTax": 200,
+        "gpfReg": 22000,
+        "govtFund": 480,
+        "govtSaving": 1120
+      },
+      "gross": 131686,
+      "totalDed": 23800,
+      "netPay": 107886
+    },
+    {
+      "hrpn": "20033783",
+      "name": "Dr.Vishwajit Ramashankar Tiwari",
+      "designation": "Insurance Medical Officer",
+      "earning": {
+        "basic": 151100,
+        "da": 105166,
+        "hra": 24176,
+        "cla": 270,
+        "medAllow": 1000,
+        "transAllow": 3600,
+        "bookAllow": 100,
+        "nppAllow": 30220,
+        "esisAllow": 200,
+        "gross": 315832
+      },
+      "deduction": {
+        "incomeTax": 10000,
+        "profTax": 200,
+        "gpfReg": 20000,
+        "npsReg": 0,
+        "govtFund": 480,
+        "govtSaving": 1120
+      },
+      "gross": 315832,
+      "totalDed": 31800,
+      "netPay": 284032
+    },
+    {
+      "hrpn": "20033795",
+      "name": "Dr.Nilesh Govindbhai Makwana",
+      "designation": "Insurance Medical Officer",
+      "earning": {
+        "basic": 91100,
+        "da": 63406,
+        "hra": 14576,
+        "cla": 270,
+        "medAllow": 1000,
+        "transAllow": 3600,
+        "bookAllow": 100,
+        "nppAllow": 18220,
+        "esisAllow": 200,
+        "gross": 192472
+      },
+      "deduction": {
+        "incomeTax": 20000,
+        "profTax": 200,
+        "gpfReg": 0,
+        "npsReg": 14394,
+        "govtFund": 480,
+        "govtSaving": 1120
+      },
+      "gross": 192472,
+      "totalDed": 36194,
+      "netPay": 156278
+    },
+    {
+      "hrpn": "20034306",
+      "name": "Dr.Manali Jagadishchandra Jani",
+      "designation": "Insurance Medical Officer",
+      "earning": {
+        "basic": 80900,
+        "da": 56306,
+        "hra": 12944,
+        "cla": 270,
+        "medAllow": 1000,
+        "transAllow": 3600,
+        "bookAllow": 100,
+        "nppAllow": 16180,
+        "esisAllow": 200,
+        "gross": 171500
+      },
+      "deduction": {
+        "incomeTax": 0,
+        "profTax": 200,
+        "gpfReg": 0,
+        "npsReg": 12783,
+        "govtFund": 480,
+        "govtSaving": 1120
+      },
+      "gross": 171500,
+      "totalDed": 14583,
+      "netPay": 156917
+    },
+    {
+      "hrpn": "20034315",
+      "name": "Dr.Dipti Pragnesh Shah",
+      "designation": "Insurance Medical Officer",
+      "earning": {
+        "basic": 142400,
+        "da": 99110,
+        "hra": 22784,
+        "cla": 270,
+        "medAllow": 1000,
+        "transAllow": 3600,
+        "bookAllow": 100,
+        "nppAllow": 28480,
+        "esisAllow": 200,
+        "gross": 297944
+      },
+      "deduction": {
+        "incomeTax": 65320,
+        "profTax": 200,
+        "gpfReg": 41666,
+        "npsReg": 0,
+        "govtFund": 480,
+        "govtSaving": 1120
+      },
+      "gross": 297944,
+      "totalDed": 108786,
+      "netPay": 189158
+    },
+    {
+      "hrpn": "20034344",
+      "name": "Dr.Hetal Chandrakant Shah",
+      "designation": "Insurance Medical Officer",
+      "earning": {
+        "basic": 151100,
+        "da": 105166,
+        "hra": 24176,
+        "cla": 270,
+        "medAllow": 1000,
+        "transAllow": 3600,
+        "bookAllow": 100,
+        "nppAllow": 30220,
+        "esisAllow": 200,
+        "gross": 315832
+      },
+      "deduction": {
+        "incomeTax": 0,
+        "profTax": 200,
+        "gpfReg": 41666,
+        "npsReg": 0,
+        "govtFund": 480,
+        "govtSaving": 1120
+      },
+      "gross": 315832,
+      "totalDed": 43466,
+      "netPay": 272366
+    },
+    {
+      "hrpn": "20034371",
+      "name": "Dr.Pratibha Ramesh Goswami",
+      "designation": "Specialist",
+      "earning": {
+        "basic": 91100,
+        "da": 63406,
+        "hra": 14576,
+        "cla": 270,
+        "medAllow": 1000,
+        "transAllow": 3600,
+        "bookAllow": 100,
+        "nppAllow": 18220,
+        "esisAllow": 200,
+        "gross": 192472
+      },
+      "deduction": {
+        "incomeTax": 0,
+        "profTax": 200,
+        "gpfReg": 0,
+        "npsReg": 14394,
+        "govtFund": 480,
+        "govtSaving": 1120
+      },
+      "gross": 192472,
+      "totalDed": 16194,
+      "netPay": 176278
+    },
+    {
+      "hrpn": "20034623",
+      "name": "Dr.Dainik Ladhabhai Savani",
+      "designation": "Insurance Medical Officer",
+      "earning": {
+        "basic": 83300,
+        "da": 57977,
+        "hra": 13328,
+        "cla": 270,
+        "medAllow": 1000,
+        "transAllow": 3600,
+        "bookAllow": 100,
+        "nppAllow": 16660,
+        "esisAllow": 200,
+        "gross": 176435
+      },
+      "deduction": {
+        "incomeTax": 0,
+        "profTax": 200,
+        "gpfReg": 0,
+        "npsReg": 13162,
+        "govtFund": 480,
+        "govtSaving": 1120
+      },
+      "gross": 176435,
+      "totalDed": 14962,
+      "netPay": 161473
+    },
+    {
+      "hrpn": "20044512",
+      "name": "Dr.Daxeshkumar Dalpatbhai Rathwa",
+      "designation": "Specialist",
+      "earning": {
+        "basic": 83300,
+        "da": 57977,
+        "hra": 13328,
+        "cla": 270,
+        "medAllow": 1000,
+        "transAllow": 3600,
+        "bookAllow": 100,
+        "nppAllow": 16660,
+        "esisAllow": 200,
+        "gross": 176435
+      },
+      "deduction": {
+        "incomeTax": 0,
+        "profTax": 200,
+        "gpfReg": 0,
+        "npsReg": 13162,
+        "govtFund": 480,
+        "govtSaving": 1120
+      },
+      "gross": 176435,
+      "totalDed": 14962,
+      "netPay": 161473
+    },
+    {
+      "hrpn": "20047803",
+      "name": "Shri.Atulkumar Chhaganbhai Makwana",
+      "designation": "Administrative Officer",
+      "earning": {
+        "basic": 52000,
+        "da": 30160,
+        "hra": 8320,
+        "cla": 270,
+        "medAllow": 1000,
+        "transAllow": 1800,
+        "bookAllow": 0,
+        "nppAllow": 0,
+        "esisAllow": 0,
+        "gross": 93550
+      },
+      "deduction": {
+        "incomeTax": 0,
+        "profTax": 200,
+        "gpfReg": 0,
+        "npsReg": 8216,
+        "govtFund": 240,
+        "govtSaving": 560
+      },
+      "gross": 93550,
+      "totalDed": 9216,
+      "netPay": 84334
+    },
+    {
+      "hrpn": "20047805",
+      "name": "Dr.Milind Girishkumar Chaudhari",
+      "designation": "Specialist",
+      "earning": {
+        "basic": 78500,
+        "da": 54636,
+        "hra": 12560,
+        "cla": 270,
+        "medAllow": 1000,
+        "transAllow": 3600,
+        "bookAllow": 100,
+        "nppAllow": 15700,
+        "esisAllow": 200,
+        "gross": 166566
+      },
+      "deduction": {
+        "incomeTax": 0,
+        "profTax": 200,
+        "gpfReg": 0,
+        "npsReg": 12403,
+        "govtFund": 480,
+        "govtSaving": 1120
+      },
+      "gross": 166566,
+      "totalDed": 14203,
+      "netPay": 152363
+    },
+    {
+      "hrpn": "20050132",
+      "name": "Dr.Avani Champaklal Patel",
+      "designation": "Specialist",
+      "earning": {
+        "basic": 76200,
+        "da": 53035,
+        "hra": 12192,
+        "cla": 270,
+        "medAllow": 1000,
+        "transAllow": 3600,
+        "bookAllow": 100,
+        "nppAllow": 15240,
+        "esisAllow": 200,
+        "gross": 161837
+      },
+      "deduction": {
+        "incomeTax": 0,
+        "profTax": 200,
+        "gpfReg": 0,
+        "npsReg": 12040,
+        "govtFund": 480,
+        "govtSaving": 1120
+      },
+      "gross": 161837,
+      "totalDed": 13840,
+      "netPay": 147997
+    },
+    {
+      "hrpn": "20050950",
+      "name": "Dr.Pranav Jagadishbhai Chavda",
+      "designation": "Insurance Medical Officer",
+      "earning": {
+        "basic": 59700,
+        "da": 41551,
+        "hra": 9552,
+        "cla": 270,
+        "medAllow": 1000,
+        "transAllow": 3600,
+        "bookAllow": 100,
+        "nppAllow": 11940,
+        "esisAllow": 200,
+        "gross": 127913
+      },
+      "deduction": {
+        "incomeTax": 0,
+        "profTax": 200,
+        "gpfReg": 0,
+        "npsReg": 9433,
+        "govtFund": 480,
+        "govtSaving": 1120
+      },
+      "gross": 127913,
+      "totalDed": 11233,
+      "netPay": 116680
+    },
+    {
+      "hrpn": "20056003",
+      "name": "Dr.Sneha Ashokkumar Pabari",
+      "designation": "Specialist",
+      "earning": {
+        "basic": 74000,
+        "da": 51504,
+        "hra": 11840,
+        "cla": 270,
+        "medAllow": 1000,
+        "transAllow": 3600,
+        "bookAllow": 100,
+        "nppAllow": 14800,
+        "esisAllow": 200,
+        "gross": 157314
+      },
+      "deduction": {
+        "incomeTax": 7000,
+        "profTax": 200,
+        "gpfReg": 0,
+        "npsReg": 11692,
+        "govtFund": 480,
+        "govtSaving": 1120
+      },
+      "gross": 157314,
+      "totalDed": 20492,
+      "netPay": 136822
+    },
+    {
+      "hrpn": "20100936",
+      "name": "Miss.Binakumari Bhogilal Trivedi",
+      "designation": "Junior Clerk",
+      "earning": {
+        "basic": 21700,
+        "da": 12586,
+        "hra": 3472,
+        "cla": 170,
+        "medAllow": 1000,
+        "transAllow": 900,
+        "specialPay": 0,
+        "washingAllow": 0,
+        "nursingAllow": 0,
+        "uniformAllow": 0,
+        "recoveryOfPay": 0,
+        "esisAllow": 0,
+        "gross": 39828
+      },
+      "deduction": {
+        "incomeTax": 0,
+        "profTax": 200,
+        "rnb": 0,
+        "gpfReg": 0,
+        "gpfClass4": 0,
+        "npsReg": 3429,
+        "govtFund": 120,
+        "govtSaving": 280
+      },
+      "gross": 39828,
+      "totalDed": 4029,
+      "netPay": 35799
+    },
+    {
+      "hrpn": "20101232",
+      "name": "Mr.AJAY DANABHAI AMBALIYA",
+      "designation": "Senior Clerk",
+      "earning": {
+        "basic": 26300,
+        "da": 15254,
+        "hra": 4208,
+        "cla": 270,
+        "medAllow": 1000,
+        "transAllow": 1800,
+        "specialPay": 0,
+        "washingAllow": 0,
+        "nursingAllow": 0,
+        "uniformAllow": 0,
+        "recoveryOfPay": 0,
+        "esisAllow": 0,
+        "gross": 48832
+      },
+      "deduction": {
+        "incomeTax": 0,
+        "profTax": 200,
+        "rnb": 0,
+        "gpfReg": 0,
+        "gpfClass4": 0,
+        "npsReg": 4155,
+        "govtFund": 120,
+        "govtSaving": 280
+      },
+      "gross": 48832,
+      "totalDed": 4755,
+      "netPay": 44077
+    },
+    {
+      "hrpn": "20101846",
+      "name": "Mr.Bharatkumar Mafatlal Parmar",
+      "designation": "Junior Clerk",
+      "earning": {
+        "basic": 41000,
+        "da": 23780,
+        "hra": 6560,
+        "cla": 270,
+        "medAllow": 1000,
+        "transAllow": 1800,
+        "specialPay": 0,
+        "washingAllow": 0,
+        "nursingAllow": 0,
+        "uniformAllow": 0,
+        "recoveryOfPay": 0,
+        "esisAllow": 0,
+        "gross": 74410
+      },
+      "deduction": {
+        "incomeTax": 0,
+        "profTax": 200,
+        "rnb": 0,
+        "gpfReg": 10000,
+        "gpfClass4": 0,
+        "npsReg": 0,
+        "govtFund": 120,
+        "govtSaving": 280
+      },
+      "gross": 74410,
+      "totalDed": 10600,
+      "netPay": 63810
+    },
+    {
+      "hrpn": "20101991",
+      "name": "Mrs.Ushaben Maljibhai Charpot",
+      "designation": "Junior Clerk",
+      "earning": {
+        "basic": 21700,
+        "da": 12586,
+        "hra": 3472,
+        "cla": 170,
+        "medAllow": 1000,
+        "transAllow": 900,
+        "specialPay": 0,
+        "washingAllow": 0,
+        "nursingAllow": 0,
+        "uniformAllow": 0,
+        "recoveryOfPay": 0,
+        "esisAllow": 0,
+        "gross": 39828
+      },
+      "deduction": {
+        "incomeTax": 0,
+        "profTax": 200,
+        "rnb": 0,
+        "gpfReg": 0,
+        "gpfClass4": 0,
+        "npsReg": 3429,
+        "govtFund": 120,
+        "govtSaving": 280
+      },
+      "gross": 39828,
+      "totalDed": 4029,
+      "netPay": 35799
+    },
+    {
+      "hrpn": "20102044",
+      "name": "Miss.Nehaben Narendrabhai Mistry",
+      "designation": "Junior Pharmacist",
+      "earning": {
+        "basic": 31000,
+        "da": 17980,
+        "hra": 4960,
+        "cla": 270,
+        "medAllow": 1000,
+        "transAllow": 1800,
+        "specialPay": 0,
+        "washingAllow": 0,
+        "nursingAllow": 0,
+        "uniformAllow": 0,
+        "recoveryOfPay": 0,
+        "esisAllow": 15,
+        "gross": 57025
+      },
+      "deduction": {
+        "incomeTax": 0,
+        "profTax": 200,
+        "rnb": 0,
+        "gpfReg": 0,
+        "gpfClass4": 0,
+        "npsReg": 4898,
+        "govtFund": 120,
+        "govtSaving": 280
+      },
+      "gross": 57025,
+      "totalDed": 5498,
+      "netPay": 51527
+    },
+    {
+      "hrpn": "20102173",
+      "name": "Miss.kalavatiben Bhaliyabhai Rathva",
+      "designation": "Matron",
+      "earning": {
+        "basic": 76500,
+        "da": 44370,
+        "hra": 12240,
+        "cla": 270,
+        "medAllow": 1000,
+        "transAllow": 1800,
+        "specialPay": 125,
+        "washingAllow": 500,
+        "nursingAllow": 1400,
+        "uniformAllow": 1100,
+        "recoveryOfPay": 0,
+        "esisAllow": 15,
+        "gross": 139320
+      },
+      "deduction": {
+        "incomeTax": 0,
+        "profTax": 200,
+        "rnb": 0,
+        "gpfReg": 25000,
+        "gpfClass4": 0,
+        "npsReg": 0,
+        "govtFund": 240,
+        "govtSaving": 560
+      },
+      "gross": 139320,
+      "totalDed": 26000,
+      "netPay": 113320
+    },
+    {
+      "hrpn": "20102213",
+      "name": "Mr.Natubhai Limbabhai Bilwal",
+      "designation": "Laboratory Technician",
+      "earning": {
+        "basic": 47600,
+        "da": 27608,
+        "hra": 7616,
+        "cla": 270,
+        "medAllow": 1000,
+        "transAllow": 1800,
+        "specialPay": 0,
+        "washingAllow": 0,
+        "nursingAllow": 0,
+        "uniformAllow": 0,
+        "recoveryOfPay": 0,
+        "esisAllow": 15,
+        "gross": 85909
+      },
+      "deduction": {
+        "incomeTax": 0,
+        "profTax": 200,
+        "rnb": 0,
+        "gpfReg": 0,
+        "gpfClass4": 0,
+        "npsReg": 7521,
+        "govtFund": 120,
+        "govtSaving": 280
+      },
+      "gross": 85909,
+      "totalDed": 8121,
+      "netPay": 77788
+    },
+    {
+      "hrpn": "20102237",
+      "name": "Mr.Sanjay Kumar Dashrathbhai Datt",
+      "designation": "Physiotherapist",
+      "earning": {
+        "basic": 53600,
+        "da": 31088,
+        "hra": 8576,
+        "cla": 270,
+        "medAllow": 1000,
+        "transAllow": 1800,
+        "specialPay": 0,
+        "washingAllow": 0,
+        "nursingAllow": 0,
+        "uniformAllow": 0,
+        "recoveryOfPay": 0,
+        "esisAllow": 15,
+        "gross": 96349
+      },
+      "deduction": {
+        "incomeTax": 0,
+        "profTax": 200,
+        "rnb": 0,
+        "gpfReg": 0,
+        "gpfClass4": 0,
+        "npsReg": 8469,
+        "govtFund": 240,
+        "govtSaving": 560
+      },
+      "gross": 96349,
+      "totalDed": 9469,
+      "netPay": 86880
+    },
+    {
+      "hrpn": "20102321",
+      "name": "Mrs.USHABEN KIRITBHAI KANANI",
+      "designation": "Head Nurse",
+      "earning": {
+        "basic": 78800,
+        "da": 45704,
+        "hra": 12608,
+        "cla": 270,
+        "medAllow": 1000,
+        "transAllow": 1800,
+        "specialPay": 0,
+        "washingAllow": 500,
+        "nursingAllow": 1400,
+        "uniformAllow": 1100,
+        "recoveryOfPay": 0,
+        "esisAllow": 15,
+        "gross": 143197
+      },
+      "deduction": {
+        "incomeTax": 18000,
+        "profTax": 200,
+        "rnb": 0,
+        "gpfReg": 30000,
+        "gpfClass4": 0,
+        "npsReg": 0,
+        "govtFund": 240,
+        "govtSaving": 560
+      },
+      "gross": 143197,
+      "totalDed": 49000,
+      "netPay": 94197
+    },
+    {
+      "hrpn": "20102334",
+      "name": "Mr.Pravinbhai Ramjibhai Patel",
+      "designation": "Staff Nurse",
+      "earning": {
+        "basic": 74300,
+        "da": 43094,
+        "hra": 11888,
+        "cla": 270,
+        "medAllow": 1000,
+        "transAllow": 1800,
+        "specialPay": 0,
+        "washingAllow": 500,
+        "nursingAllow": 1400,
+        "uniformAllow": 1100,
+        "recoveryOfPay": 0,
+        "esisAllow": 15,
+        "gross": 135367
+      },
+      "deduction": {
+        "incomeTax": 0,
+        "profTax": 200,
+        "rnb": 0,
+        "gpfReg": 40000,
+        "gpfClass4": 0,
+        "npsReg": 0,
+        "govtFund": 240,
+        "govtSaving": 560
+      },
+      "gross": 135367,
+      "totalDed": 41000,
+      "netPay": 94367
+    },
+    {
+      "hrpn": "20102351",
+      "name": "Miss.Nileshwaribahen Virendrasinh Parmar",
+      "designation": "Laboratory Technician",
+      "earning": {
+        "basic": 40800,
+        "gross": 40800
+      },
+      "deduction": {
+        "profTax": 200
+      },
+      "gross": 40800,
+      "totalDed": 200,
+      "netPay": 40600
+    },
+    {
+      "hrpn": "20102355",
+      "name": "Miss.Bansi Kantilal Viramgama",
+      "designation": "Laboratory Technician",
+      "earning": {
+        "basic": 40800,
+        "gross": 40800
+      },
+      "deduction": {
+        "profTax": 200
+      },
+      "gross": 40800,
+      "totalDed": 200,
+      "netPay": 40600
+    },
+    {
+      "hrpn": "20102364",
+      "name": "Mrs.Pratikshaben Alpeshbhai Parmar",
+      "designation": "Staff Nurse",
+      "earning": {
+        "basic": 34900,
+        "da": 20242,
+        "hra": 5584,
+        "cla": 270,
+        "medAllow": 1000,
+        "transAllow": 1800,
+        "specialPay": 0,
+        "washingAllow": 500,
+        "nursingAllow": 1400,
+        "uniformAllow": 1100,
+        "recoveryOfPay": 0,
+        "esisAllow": 15,
+        "gross": 66811
+      },
+      "deduction": {
+        "incomeTax": 0,
+        "profTax": 200,
+        "rnb": 0,
+        "gpfReg": 0,
+        "gpfClass4": 0,
+        "npsReg": 5514,
+        "govtFund": 120,
+        "govtSaving": 280
+      },
+      "gross": 66811,
+      "totalDed": 6114,
+      "netPay": 60697
+    },
+    {
+      "hrpn": "20102371",
+      "name": "Mr.Chintankumar Jesangbhai Chaudhari",
+      "designation": "Staff Nurse",
+      "earning": {
+        "basic": 31000,
+        "da": 17980,
+        "hra": 0,
+        "cla": 270,
+        "medAllow": 1000,
+        "transAllow": 1800,
+        "specialPay": 0,
+        "washingAllow": 500,
+        "nursingAllow": 1400,
+        "uniformAllow": 1100,
+        "recoveryOfPay": -1500,
+        "esisAllow": 15,
+        "gross": 53565
+      },
+      "deduction": {
+        "incomeTax": 0,
+        "profTax": 200,
+        "rnb": 300,
+        "gpfReg": 0,
+        "gpfClass4": 0,
+        "npsReg": 4898,
+        "govtFund": 120,
+        "govtSaving": 280
+      },
+      "gross": 53565,
+      "totalDed": 5798,
+      "netPay": 47767
+    },
+    {
+      "hrpn": "20102382",
+      "name": "Mr.Virsing Ratanbhai Rathva",
+      "designation": "Matron",
+      "earning": {
+        "basic": 74300,
+        "da": 43094,
+        "hra": 11888,
+        "cla": 270,
+        "medAllow": 1000,
+        "transAllow": 3600,
+        "specialPay": 0,
+        "washingAllow": 500,
+        "nursingAllow": 1400,
+        "uniformAllow": 1100,
+        "recoveryOfPay": 0,
+        "esisAllow": 15,
+        "gross": 137167
+      },
+      "deduction": {
+        "incomeTax": 0,
+        "profTax": 0,
+        "rnb": 0,
+        "gpfReg": 20000,
+        "gpfClass4": 0,
+        "npsReg": 0,
+        "govtFund": 240,
+        "govtSaving": 560
+      },
+      "gross": 137167,
+      "totalDed": 20800,
+      "netPay": 116367
+    },
+    {
+      "hrpn": "20102384",
+      "name": "Mrs.Priti Rakeshbhai Chaudhari",
+      "designation": "Staff Nurse",
+      "earning": {
+        "basic": 38700,
+        "da": 22446,
+        "hra": 6192,
+        "cla": 270,
+        "medAllow": 1000,
+        "transAllow": 1800,
+        "specialPay": 0,
+        "washingAllow": 500,
+        "nursingAllow": 1400,
+        "uniformAllow": 1100,
+        "recoveryOfPay": 0,
+        "esisAllow": 15,
+        "gross": 73423
+      },
+      "deduction": {
+        "incomeTax": 0,
+        "profTax": 200,
+        "rnb": 0,
+        "gpfReg": 0,
+        "gpfClass4": 0,
+        "npsReg": 6115,
+        "govtFund": 120,
+        "govtSaving": 280
+      },
+      "gross": 73423,
+      "totalDed": 6715,
+      "netPay": 66708
+    },
+    {
+      "hrpn": "20102393",
+      "name": "Mrs.Rajeshwari Mahendrabhai Patel",
+      "designation": "Staff Nurse",
+      "earning": {
+        "basic": 74300,
+        "da": 43094,
+        "hra": 11888,
+        "cla": 270,
+        "medAllow": 1000,
+        "transAllow": 1800,
+        "specialPay": 0,
+        "washingAllow": 500,
+        "nursingAllow": 1400,
+        "uniformAllow": 1100,
+        "recoveryOfPay": 0,
+        "esisAllow": 15,
+        "gross": 135367
+      },
+      "deduction": {
+        "incomeTax": 0,
+        "profTax": 200,
+        "rnb": 0,
+        "gpfReg": 20000,
+        "gpfClass4": 0,
+        "npsReg": 0,
+        "govtFund": 240,
+        "govtSaving": 560
+      },
+      "gross": 135367,
+      "totalDed": 21000,
+      "netPay": 114367
+    },
+    {
+      "hrpn": "20102402",
+      "name": "Mrs.Sangitaben Samsunbhai Bilwal",
+      "designation": "Staff Nurse",
+      "earning": {
+        "basic": 38700,
+        "da": 22446,
+        "hra": 6192,
+        "cla": 270,
+        "medAllow": 1000,
+        "transAllow": 1800,
+        "specialPay": 0,
+        "washingAllow": 500,
+        "nursingAllow": 1400,
+        "uniformAllow": 1100,
+        "recoveryOfPay": 0,
+        "esisAllow": 15,
+        "gross": 73423
+      },
+      "deduction": {
+        "incomeTax": 0,
+        "profTax": 200,
+        "rnb": 0,
+        "gpfReg": 0,
+        "gpfClass4": 0,
+        "npsReg": 6115,
+        "govtFund": 120,
+        "govtSaving": 280
+      },
+      "gross": 73423,
+      "totalDed": 6715,
+      "netPay": 66708
+    },
+    {
+      "hrpn": "20102428",
+      "name": "Mrs.DARSHANABEN JIGNESHBHAI MEHTA",
+      "designation": "Staff Nurse",
+      "earning": {
+        "basic": 38700,
+        "da": 22446,
+        "hra": 6192,
+        "cla": 270,
+        "medAllow": 1000,
+        "transAllow": 1800,
+        "specialPay": 0,
+        "washingAllow": 500,
+        "nursingAllow": 1400,
+        "uniformAllow": 1100,
+        "recoveryOfPay": 0,
+        "esisAllow": 15,
+        "gross": 73423
+      },
+      "deduction": {
+        "incomeTax": 0,
+        "profTax": 200,
+        "rnb": 0,
+        "gpfReg": 0,
+        "gpfClass4": 0,
+        "npsReg": 6115,
+        "govtFund": 120,
+        "govtSaving": 280
+      },
+      "gross": 73423,
+      "totalDed": 6715,
+      "netPay": 66708
+    },
+    {
+      "hrpn": "20102575",
+      "name": "Mrs.Nipa Akshatkumar Patel",
+      "designation": "Staff Nurse",
+      "earning": {
+        "basic": 38700,
+        "da": 22446,
+        "hra": 6192,
+        "cla": 270,
+        "medAllow": 1000,
+        "transAllow": 1800,
+        "specialPay": 0,
+        "washingAllow": 500,
+        "nursingAllow": 1400,
+        "uniformAllow": 1100,
+        "recoveryOfPay": -1900,
+        "esisAllow": 15,
+        "gross": 71523
+      },
+      "deduction": {
+        "incomeTax": 0,
+        "profTax": 200,
+        "rnb": 0,
+        "gpfReg": 0,
+        "gpfClass4": 0,
+        "npsReg": 6115,
+        "govtFund": 120,
+        "govtSaving": 280
+      },
+      "gross": 71523,
+      "totalDed": 6715,
+      "netPay": 64808
+    },
+    {
+      "hrpn": "20102580",
+      "name": "Mr.Prashantkumar Ishwarbhai Mistry",
+      "designation": "Laboratory Technician",
+      "earning": {
+        "basic": 47600,
+        "da": 27608,
+        "hra": 7616,
+        "cla": 270,
+        "medAllow": 1000,
+        "transAllow": 1800,
+        "specialPay": 0,
+        "washingAllow": 0,
+        "nursingAllow": 0,
+        "uniformAllow": 0,
+        "recoveryOfPay": 0,
+        "esisAllow": 15,
+        "gross": 85909
+      },
+      "deduction": {
+        "incomeTax": 0,
+        "profTax": 200,
+        "rnb": 0,
+        "gpfReg": 0,
+        "gpfClass4": 0,
+        "npsReg": 7521,
+        "govtFund": 120,
+        "govtSaving": 280
+      },
+      "gross": 85909,
+      "totalDed": 8121,
+      "netPay": 77788
+    },
+    {
+      "hrpn": "20102594",
+      "name": "Mr.Nileshkumar Bharatbhai Mistri",
+      "designation": "Staff Nurse",
+      "earning": {
+        "basic": 37600,
+        "da": 21808,
+        "hra": 6016,
+        "cla": 270,
+        "medAllow": 1000,
+        "transAllow": 1800,
+        "specialPay": 0,
+        "washingAllow": 500,
+        "nursingAllow": 1400,
+        "uniformAllow": 1100,
+        "recoveryOfPay": 0,
+        "esisAllow": 15,
+        "gross": 71509
+      },
+      "deduction": {
+        "incomeTax": 0,
+        "profTax": 200,
+        "rnb": 0,
+        "gpfReg": 0,
+        "gpfClass4": 0,
+        "npsReg": 5941,
+        "govtFund": 120,
+        "govtSaving": 280
+      },
+      "gross": 71509,
+      "totalDed": 6541,
+      "netPay": 64968
+    },
+    {
+      "hrpn": "20102611",
+      "name": "Mrs.Kamini Jayeshkumar Rana",
+      "designation": "Staff Nurse",
+      "earning": {
+        "basic": 38700,
+        "da": 22446,
+        "hra": 6192,
+        "cla": 270,
+        "medAllow": 1000,
+        "transAllow": 1800,
+        "specialPay": 0,
+        "washingAllow": 500,
+        "nursingAllow": 1400,
+        "uniformAllow": 1100,
+        "recoveryOfPay": 0,
+        "esisAllow": 15,
+        "gross": 73423
+      },
+      "deduction": {
+        "incomeTax": 0,
+        "profTax": 200,
+        "rnb": 0,
+        "gpfReg": 0,
+        "gpfClass4": 0,
+        "npsReg": 6115,
+        "govtFund": 120,
+        "govtSaving": 280
+      },
+      "gross": 73423,
+      "totalDed": 6715,
+      "netPay": 66708
+    },
+    {
+      "hrpn": "20102621",
+      "name": "Mrs.Satyavatiben Jigneshbhai Tadvi",
+      "designation": "Staff Nurse",
+      "earning": {
+        "basic": 37600,
+        "da": 21808,
+        "hra": 6016,
+        "cla": 270,
+        "medAllow": 1000,
+        "transAllow": 1800,
+        "specialPay": 0,
+        "washingAllow": 500,
+        "nursingAllow": 1400,
+        "uniformAllow": 1100,
+        "recoveryOfPay": 0,
+        "esisAllow": 15,
+        "gross": 71509
+      },
+      "deduction": {
+        "incomeTax": 0,
+        "profTax": 200,
+        "rnb": 0,
+        "gpfReg": 0,
+        "gpfClass4": 0,
+        "npsReg": 5941,
+        "govtFund": 120,
+        "govtSaving": 280
+      },
+      "gross": 71509,
+      "totalDed": 6541,
+      "netPay": 64968
+    },
+    {
+      "hrpn": "20102627",
+      "name": "Miss.Mayuriben Gautambhai Patel",
+      "designation": "Staff Nurse",
+      "earning": {
+        "basic": 38700,
+        "da": 22446,
+        "hra": 6192,
+        "cla": 270,
+        "medAllow": 1000,
+        "transAllow": 1800,
+        "specialPay": 0,
+        "washingAllow": 500,
+        "nursingAllow": 1400,
+        "uniformAllow": 1100,
+        "recoveryOfPay": 0,
+        "esisAllow": 15,
+        "gross": 73423
+      },
+      "deduction": {
+        "incomeTax": 0,
+        "profTax": 200,
+        "rnb": 0,
+        "gpfReg": 0,
+        "gpfClass4": 0,
+        "npsReg": 6115,
+        "govtFund": 120,
+        "govtSaving": 280
+      },
+      "gross": 73423,
+      "totalDed": 6715,
+      "netPay": 66708
+    },
+    {
+      "hrpn": "20102650",
+      "name": "Miss.Sonikumari subhashsingh Kushawaha",
+      "designation": "Staff Nurse",
+      "earning": {
+        "basic": 40800,
+        "gross": 40800
+      },
+      "deduction": {
+        "profTax": 200
+      },
+      "gross": 40800,
+      "totalDed": 200,
+      "netPay": 40600
+    },
+    {
+      "hrpn": "20102658",
+      "name": "Mrs.Krishna Nikunj Patel",
+      "designation": "Staff Nurse",
+      "earning": {
+        "basic": 38700,
+        "da": 22446,
+        "hra": 6192,
+        "cla": 270,
+        "medAllow": 1000,
+        "transAllow": 1800,
+        "specialPay": 0,
+        "washingAllow": 500,
+        "nursingAllow": 1400,
+        "uniformAllow": 1100,
+        "recoveryOfPay": 0,
+        "esisAllow": 15,
+        "gross": 73423
+      },
+      "deduction": {
+        "incomeTax": 0,
+        "profTax": 200,
+        "rnb": 0,
+        "gpfReg": 0,
+        "gpfClass4": 0,
+        "npsReg": 6115,
+        "govtFund": 120,
+        "govtSaving": 280
+      },
+      "gross": 73423,
+      "totalDed": 6715,
+      "netPay": 66708
+    },
+    {
+      "hrpn": "20102677",
+      "name": "Miss.Priyanka polusbhai Ninama",
+      "designation": "Staff Nurse",
+      "earning": {
+        "basic": 34900,
+        "da": 20242,
+        "hra": 5584,
+        "cla": 270,
+        "medAllow": 1000,
+        "transAllow": 1800,
+        "specialPay": 0,
+        "washingAllow": 500,
+        "nursingAllow": 1400,
+        "uniformAllow": 1100,
+        "recoveryOfPay": 0,
+        "esisAllow": 15,
+        "gross": 66811
+      },
+      "deduction": {
+        "incomeTax": 0,
+        "profTax": 200,
+        "rnb": 0,
+        "gpfReg": 0,
+        "gpfClass4": 0,
+        "npsReg": 5514,
+        "govtFund": 120,
+        "govtSaving": 280
+      },
+      "gross": 66811,
+      "totalDed": 6114,
+      "netPay": 60697
+    },
+    {
+      "hrpn": "20102724",
+      "name": "Miss.Dimpal Narendrabhai Parmar",
+      "designation": "Staff Nurse",
+      "earning": {
+        "basic": 31000,
+        "da": 17980,
+        "hra": 0,
+        "cla": 270,
+        "medAllow": 1000,
+        "transAllow": 1800,
+        "specialPay": 0,
+        "washingAllow": 500,
+        "nursingAllow": 1400,
+        "uniformAllow": 1100,
+        "recoveryOfPay": 0,
+        "esisAllow": 15,
+        "gross": 55065
+      },
+      "deduction": {
+        "incomeTax": 0,
+        "profTax": 200,
+        "rnb": 300,
+        "gpfReg": 0,
+        "gpfClass4": 0,
+        "npsReg": 4898,
+        "govtFund": 120,
+        "govtSaving": 280
+      },
+      "gross": 55065,
+      "totalDed": 5798,
+      "netPay": 49267
+    },
+    {
+      "hrpn": "20102777",
+      "name": "Mr.Surendrakumar Mishrimal Dahiya",
+      "designation": "Staff Nurse",
+      "earning": {
+        "basic": 35900,
+        "da": 20822,
+        "hra": 5744,
+        "cla": 270,
+        "medAllow": 1000,
+        "transAllow": 1800,
+        "specialPay": 0,
+        "washingAllow": 500,
+        "nursingAllow": 1400,
+        "uniformAllow": 1100,
+        "recoveryOfPay": 0,
+        "esisAllow": 15,
+        "gross": 68551
+      },
+      "deduction": {
+        "incomeTax": 0,
+        "profTax": 200,
+        "rnb": 0,
+        "gpfReg": 0,
+        "gpfClass4": 0,
+        "npsReg": 5672,
+        "govtFund": 120,
+        "govtSaving": 280
+      },
+      "gross": 68551,
+      "totalDed": 6272,
+      "netPay": 62279
+    },
+    {
+      "hrpn": "20102869",
+      "name": "Mr.Nitinkumar Kiritkumar Kavad",
+      "designation": "Head Nurse",
+      "earning": {
+        "basic": 74300,
+        "da": 43094,
+        "hra": 11888,
+        "cla": 270,
+        "medAllow": 1000,
+        "transAllow": 1800,
+        "specialPay": 0,
+        "washingAllow": 500,
+        "nursingAllow": 1400,
+        "uniformAllow": 1100,
+        "recoveryOfPay": 0,
+        "esisAllow": 15,
+        "gross": 135367
+      },
+      "deduction": {
+        "incomeTax": 2000,
+        "profTax": 200,
+        "rnb": 0,
+        "gpfReg": 40000,
+        "gpfClass4": 0,
+        "npsReg": 0,
+        "govtFund": 240,
+        "govtSaving": 560
+      },
+      "gross": 135367,
+      "totalDed": 43000,
+      "netPay": 92367
+    },
+    {
+      "hrpn": "20102892",
+      "name": "Mrs.Nilamben Gopalbhai Patel",
+      "designation": "Staff Nurse",
+      "earning": {
+        "basic": 37600,
+        "da": 21808,
+        "hra": 6016,
+        "cla": 270,
+        "medAllow": 1000,
+        "transAllow": 1800,
+        "specialPay": 0,
+        "washingAllow": 500,
+        "nursingAllow": 1400,
+        "uniformAllow": 1100,
+        "recoveryOfPay": -400,
+        "esisAllow": 15,
+        "gross": 71109
+      },
+      "deduction": {
+        "incomeTax": 0,
+        "profTax": 200,
+        "rnb": 0,
+        "gpfReg": 0,
+        "gpfClass4": 0,
+        "npsReg": 5941,
+        "govtFund": 120,
+        "govtSaving": 280
+      },
+      "gross": 71109,
+      "totalDed": 6541,
+      "netPay": 64568
+    },
+    {
+      "hrpn": "20102943",
+      "name": "Miss.Ushaben Bharatlal Bhavsar",
+      "designation": "Staff Nurse",
+      "earning": {
+        "basic": 38700,
+        "da": 22446,
+        "hra": 6192,
+        "cla": 270,
+        "medAllow": 1000,
+        "transAllow": 1800,
+        "specialPay": 0,
+        "washingAllow": 500,
+        "nursingAllow": 1400,
+        "uniformAllow": 1100,
+        "recoveryOfPay": 0,
+        "esisAllow": 15,
+        "gross": 73423
+      },
+      "deduction": {
+        "incomeTax": 0,
+        "profTax": 200,
+        "rnb": 0,
+        "gpfReg": 0,
+        "gpfClass4": 0,
+        "npsReg": 6115,
+        "govtFund": 120,
+        "govtSaving": 280
+      },
+      "gross": 73423,
+      "totalDed": 6715,
+      "netPay": 66708
+    },
+    {
+      "hrpn": "20102946",
+      "name": "Mr.PIYUSHBHAI PACHANBHAI BATRA",
+      "designation": "Senior Pharmacist",
+      "earning": {
+        "basic": 74300,
+        "da": 43094,
+        "hra": 11888,
+        "cla": 270,
+        "medAllow": 1000,
+        "transAllow": 1800,
+        "specialPay": 0,
+        "washingAllow": 0,
+        "nursingAllow": 0,
+        "uniformAllow": 0,
+        "recoveryOfPay": 0,
+        "esisAllow": 15,
+        "gross": 132367
+      },
+      "deduction": {
+        "incomeTax": 5000,
+        "profTax": 200,
+        "rnb": 0,
+        "gpfReg": 10000,
+        "gpfClass4": 0,
+        "npsReg": 0,
+        "govtFund": 240,
+        "govtSaving": 560
+      },
+      "gross": 132367,
+      "totalDed": 16000,
+      "netPay": 116367
+    },
+    {
+      "hrpn": "20103399",
+      "name": "Miss.Rakshaben Ishwarbhai Rathva",
+      "designation": "Staff Nurse",
+      "earning": {
+        "basic": 31000,
+        "da": 17980,
+        "hra": 4960,
+        "cla": 270,
+        "medAllow": 1000,
+        "transAllow": 1800,
+        "specialPay": 0,
+        "washingAllow": 500,
+        "nursingAllow": 1400,
+        "uniformAllow": 1100,
+        "recoveryOfPay": 0,
+        "esisAllow": 15,
+        "gross": 60025
+      },
+      "deduction": {
+        "incomeTax": 0,
+        "profTax": 200,
+        "rnb": 0,
+        "gpfReg": 0,
+        "gpfClass4": 0,
+        "npsReg": 4898,
+        "govtFund": 120,
+        "govtSaving": 280
+      },
+      "gross": 60025,
+      "totalDed": 5498,
+      "netPay": 54527
+    },
+    {
+      "hrpn": "20103563",
+      "name": "Mrs.Upasana Sanjaykumar Bhalgamadiya",
+      "designation": "Head Nurse",
+      "earning": {
+        "basic": 76500,
+        "da": 44370,
+        "hra": 12240,
+        "cla": 270,
+        "medAllow": 1000,
+        "transAllow": 1800,
+        "specialPay": 0,
+        "washingAllow": 500,
+        "nursingAllow": 1400,
+        "uniformAllow": 1100,
+        "recoveryOfPay": 0,
+        "esisAllow": 15,
+        "gross": 139195
+      },
+      "deduction": {
+        "incomeTax": 0,
+        "profTax": 200,
+        "rnb": 0,
+        "gpfReg": 25000,
+        "gpfClass4": 0,
+        "npsReg": 0,
+        "govtFund": 240,
+        "govtSaving": 560
+      },
+      "gross": 139195,
+      "totalDed": 26000,
+      "netPay": 113195
+    },
+    {
+      "hrpn": "20103653",
+      "name": "Mr.BABU MURUBHAI KARANGIYA",
+      "designation": "Senior Clerk",
+      "earning": {
+        "basic": 26300,
+        "da": 15254,
+        "hra": 4208,
+        "cla": 270,
+        "medAllow": 1000,
+        "transAllow": 1800,
+        "specialPay": 0,
+        "washingAllow": 0,
+        "nursingAllow": 0,
+        "uniformAllow": 0,
+        "recoveryOfPay": 0,
+        "esisAllow": 0,
+        "gross": 48832
+      },
+      "deduction": {
+        "incomeTax": 0,
+        "profTax": 200,
+        "rnb": 0,
+        "gpfReg": 0,
+        "gpfClass4": 0,
+        "npsReg": 4155,
+        "govtFund": 120,
+        "govtSaving": 280
+      },
+      "gross": 48832,
+      "totalDed": 4755,
+      "netPay": 44077
+    },
+    {
+      "hrpn": "20103689",
+      "name": "Shri.KASHMIRABEN JITENDRAKUMAR VYAS",
+      "designation": "Head Nurse",
+      "earning": {
+        "basic": 74300,
+        "da": 43094,
+        "hra": 11888,
+        "cla": 270,
+        "medAllow": 1000,
+        "transAllow": 1800,
+        "specialPay": 0,
+        "washingAllow": 500,
+        "nursingAllow": 1400,
+        "uniformAllow": 1100,
+        "recoveryOfPay": 0,
+        "esisAllow": 15,
+        "gross": 135367
+      },
+      "deduction": {
+        "incomeTax": 0,
+        "profTax": 200,
+        "rnb": 0,
+        "gpfReg": 15000,
+        "gpfClass4": 0,
+        "npsReg": 0,
+        "govtFund": 240,
+        "govtSaving": 560
+      },
+      "gross": 135367,
+      "totalDed": 16000,
+      "netPay": 119367
+    },
+    {
+      "hrpn": "20104623",
+      "name": "Mrs.Jashuben Ramjibhai Devda",
+      "designation": "Staff Nurse",
+      "earning": {
+        "basic": 70000,
+        "da": 40600,
+        "hra": 11200,
+        "cla": 270,
+        "medAllow": 1000,
+        "transAllow": 1800,
+        "specialPay": 0,
+        "washingAllow": 500,
+        "nursingAllow": 1400,
+        "uniformAllow": 1100,
+        "recoveryOfPay": 0,
+        "esisAllow": 15,
+        "gross": 127885
+      },
+      "deduction": {
+        "incomeTax": 0,
+        "profTax": 200,
+        "rnb": 0,
+        "gpfReg": 35000,
+        "gpfClass4": 0,
+        "npsReg": 0,
+        "govtFund": 240,
+        "govtSaving": 560
+      },
+      "gross": 127885,
+      "totalDed": 36000,
+      "netPay": 91885
+    },
+    {
+      "hrpn": "20104683",
+      "name": "Mr.Dharmendrakumar Narendrabhai Bhoi",
+      "designation": "Staff Nurse",
+      "earning": {
+        "basic": 37600,
+        "da": 21808,
+        "hra": 6016,
+        "cla": 270,
+        "medAllow": 1000,
+        "transAllow": 1800,
+        "specialPay": 0,
+        "washingAllow": 500,
+        "nursingAllow": 1400,
+        "uniformAllow": 1100,
+        "recoveryOfPay": 0,
+        "esisAllow": 15,
+        "gross": 71509
+      },
+      "deduction": {
+        "incomeTax": 0,
+        "profTax": 200,
+        "rnb": 0,
+        "gpfReg": 0,
+        "gpfClass4": 0,
+        "npsReg": 5941,
+        "govtFund": 120,
+        "govtSaving": 280
+      },
+      "gross": 71509,
+      "totalDed": 6541,
+      "netPay": 64968
+    },
+    {
+      "hrpn": "20104709",
+      "name": "Mr.Ullaskumar Manilal Mekvan",
+      "designation": "Staff Nurse",
+      "earning": {
+        "basic": 70000,
+        "da": 40600,
+        "hra": 11200,
+        "cla": 270,
+        "medAllow": 1000,
+        "transAllow": 1800,
+        "specialPay": 0,
+        "washingAllow": 500,
+        "nursingAllow": 1400,
+        "uniformAllow": 1100,
+        "recoveryOfPay": -300,
+        "esisAllow": 15,
+        "gross": 127585
+      },
+      "deduction": {
+        "incomeTax": 0,
+        "profTax": 200,
+        "rnb": 0,
+        "gpfReg": 15000,
+        "gpfClass4": 0,
+        "npsReg": 0,
+        "govtFund": 240,
+        "govtSaving": 560
+      },
+      "gross": 127585,
+      "totalDed": 16000,
+      "netPay": 111585
+    },
+    {
+      "hrpn": "20104779",
+      "name": "Miss.Taramati Panjibhai Bhagora",
+      "designation": "Staff Nurse",
+      "earning": {
+        "basic": 70000,
+        "da": 40600,
+        "hra": 11200,
+        "cla": 270,
+        "medAllow": 1000,
+        "transAllow": 1800,
+        "specialPay": 0,
+        "washingAllow": 500,
+        "nursingAllow": 1400,
+        "uniformAllow": 1100,
+        "recoveryOfPay": 0,
+        "esisAllow": 15,
+        "gross": 127885
+      },
+      "deduction": {
+        "incomeTax": 0,
+        "profTax": 200,
+        "rnb": 0,
+        "gpfReg": 20000,
+        "gpfClass4": 0,
+        "npsReg": 0,
+        "govtFund": 240,
+        "govtSaving": 560
+      },
+      "gross": 127885,
+      "totalDed": 21000,
+      "netPay": 106885
+    },
+    {
+      "hrpn": "20108877",
+      "name": "Mr.JAYPRAKASH JAFARBHAI PATEL",
+      "designation": "Head Nurse",
+      "earning": {
+        "basic": 72100,
+        "da": 41818,
+        "hra": 11536,
+        "cla": 270,
+        "medAllow": 1000,
+        "transAllow": 1800,
+        "specialPay": 0,
+        "washingAllow": 500,
+        "nursingAllow": 1400,
+        "uniformAllow": 1100,
+        "recoveryOfPay": 0,
+        "esisAllow": 15,
+        "gross": 131539
+      },
+      "deduction": {
+        "incomeTax": 0,
+        "profTax": 200,
+        "rnb": 0,
+        "gpfReg": 15000,
+        "gpfClass4": 0,
+        "npsReg": 0,
+        "govtFund": 240,
+        "govtSaving": 560
+      },
+      "gross": 131539,
+      "totalDed": 16000,
+      "netPay": 115539
+    },
+    {
+      "hrpn": "20115883",
+      "name": "Miss.Pavnabahen Maganbhai Ninama",
+      "designation": "Head Nurse",
+      "earning": {
+        "basic": 70000,
+        "da": 40600,
+        "hra": 11200,
+        "cla": 270,
+        "medAllow": 1000,
+        "transAllow": 1800,
+        "specialPay": 0,
+        "washingAllow": 500,
+        "nursingAllow": 1400,
+        "uniformAllow": 1100,
+        "recoveryOfPay": 0,
+        "esisAllow": 15,
+        "gross": 127885
+      },
+      "deduction": {
+        "incomeTax": 0,
+        "profTax": 200,
+        "rnb": 0,
+        "gpfReg": 40000,
+        "gpfClass4": 0,
+        "npsReg": 0,
+        "govtFund": 240,
+        "govtSaving": 560
+      },
+      "gross": 127885,
+      "totalDed": 41000,
+      "netPay": 86885
+    },
+    {
+      "hrpn": "20135739",
+      "name": "Miss.ANKITA VELJIBHAI CHAUHAN",
+      "designation": "Staff Nurse",
+      "earning": {
+        "basic": 37600,
+        "da": 21808,
+        "hra": 6016,
+        "cla": 270,
+        "medAllow": 1000,
+        "transAllow": 1800,
+        "specialPay": 0,
+        "washingAllow": 500,
+        "nursingAllow": 1400,
+        "uniformAllow": 1100,
+        "recoveryOfPay": -600,
+        "esisAllow": 15,
+        "gross": 70909
+      },
+      "deduction": {
+        "incomeTax": 0,
+        "profTax": 200,
+        "rnb": 0,
+        "gpfReg": 0,
+        "gpfClass4": 0,
+        "npsReg": 5941,
+        "govtFund": 120,
+        "govtSaving": 280
+      },
+      "gross": 70909,
+      "totalDed": 6541,
+      "netPay": 64368
+    },
+    {
+      "hrpn": "20137049",
+      "name": "Mrs.Vishakhabahen Bhupatbhai Dabhi",
+      "designation": "Specialist",
+      "earning": {
+        "basic": 67700,
+        "da": 47119,
+        "hra": 10832,
+        "cla": 270,
+        "medAllow": 1000,
+        "transAllow": 3600,
+        "bookAllow": 100,
+        "nppAllow": 13540,
+        "esisAllow": 200,
+        "gross": 144361
+      },
+      "deduction": {
+        "incomeTax": 15000,
+        "profTax": 200,
+        "gpfReg": 0,
+        "npsReg": 10697,
+        "govtFund": 480,
+        "govtSaving": 1120
+      },
+      "gross": 144361,
+      "totalDed": 27497,
+      "netPay": 116864
+    },
+    {
+      "hrpn": "20159265",
+      "name": "Dr.Vijaybhai Manaharbhai Ninama",
+      "designation": "Specialist",
+      "earning": {
+        "basic": 67700,
+        "da": 47119,
+        "hra": 10832,
+        "cla": 270,
+        "medAllow": 1000,
+        "transAllow": 3600,
+        "bookAllow": 100,
+        "nppAllow": 13540,
+        "esisAllow": 200,
+        "gross": 144361
+      },
+      "deduction": {
+        "incomeTax": 18000,
+        "profTax": 200,
+        "gpfReg": 0,
+        "npsReg": 10697,
+        "govtFund": 480,
+        "govtSaving": 1120
+      },
+      "gross": 144361,
+      "totalDed": 30497,
+      "netPay": 113864
+    },
+    {
+      "hrpn": "20465218",
+      "name": "Mr.Nazir Vali Joshi",
+      "designation": "Peon",
+      "earning": {
+        "basic": 36100,
+        "da": 20938,
+        "hra": 5776,
+        "cla": 110,
+        "medAllow": 1000,
+        "transAllow": 1800,
+        "specialPay": 0,
+        "washingAllow": 200,
+        "nursingAllow": 0,
+        "uniformAllow": 0,
+        "recoveryOfPay": 0,
+        "esisAllow": 0,
+        "gross": 65924
+      },
+      "deduction": {
+        "incomeTax": 0,
+        "profTax": 200,
+        "rnb": 0,
+        "gpfReg": 0,
+        "gpfClass4": 32962,
+        "npsReg": 0,
+        "govtFund": 60,
+        "govtSaving": 140
+      },
+      "gross": 65924,
+      "totalDed": 33362,
+      "netPay": 32562
+    },
+    {
+      "hrpn": "20465238",
+      "name": "Mr.Shailesh bhai Prahlad bhai Limbachiya",
+      "designation": "Peon",
+      "earning": {
+        "basic": 39900,
+        "da": 23142,
+        "hra": 6384,
+        "cla": 170,
+        "medAllow": 1000,
+        "transAllow": 3600,
+        "specialPay": 0,
+        "washingAllow": 200,
+        "nursingAllow": 0,
+        "uniformAllow": 0,
+        "recoveryOfPay": 0,
+        "esisAllow": 0,
+        "gross": 74396
+      },
+      "deduction": {
+        "incomeTax": 0,
+        "profTax": 0,
+        "rnb": 0,
+        "gpfReg": 0,
+        "gpfClass4": 35000,
+        "npsReg": 0,
+        "govtFund": 120,
+        "govtSaving": 280
+      },
+      "gross": 74396,
+      "totalDed": 35400,
+      "netPay": 38996
+    },
+    {
+      "hrpn": "20465240",
+      "name": "Mr.Minesh bhai Kalu bhai Baria",
+      "designation": "Peon",
+      "earning": {
+        "basic": 38700,
+        "da": 22446,
+        "hra": 6192,
+        "cla": 170,
+        "medAllow": 1000,
+        "transAllow": 1800,
+        "specialPay": 0,
+        "washingAllow": 200,
+        "nursingAllow": 0,
+        "uniformAllow": 0,
+        "recoveryOfPay": 0,
+        "esisAllow": 0,
+        "gross": 70508
+      },
+      "deduction": {
+        "incomeTax": 0,
+        "profTax": 200,
+        "rnb": 0,
+        "gpfReg": 0,
+        "gpfClass4": 20000,
+        "npsReg": 0,
+        "govtFund": 120,
+        "govtSaving": 280
+      },
+      "gross": 70508,
+      "totalDed": 20600,
+      "netPay": 49908
+    },
+    {
+      "hrpn": "20466776",
+      "name": "Dr.PRASHANT BHANABHAI RAM",
+      "designation": "Specialist",
+      "earning": {
+        "basic": 67700,
+        "da": 47119,
+        "hra": 10832,
+        "cla": 270,
+        "medAllow": 1000,
+        "transAllow": 3600,
+        "bookAllow": 100,
+        "nppAllow": 13540,
+        "esisAllow": 200,
+        "gross": 144361
+      },
+      "deduction": {
+        "incomeTax": 11000,
+        "profTax": 200,
+        "gpfReg": 0,
+        "npsReg": 10697,
+        "govtFund": 480,
+        "govtSaving": 1120
+      },
+      "gross": 144361,
+      "totalDed": 23497,
+      "netPay": 120864
+    }
+  ],
+  "validation": {
+    "isValid": true,
+    "totalRecords": 74,
+    "validRecords": 74,
+    "errors": [],
+    "warnings": [],
+    "summary": {
+      "totalEmployees": 74,
+      "totalGross": 9393557,
+      "totalDeductions": 1703263,
+      "totalNetPay": 7690294,
+      "earningFieldsFound": [
+        "basic",
+        "da",
+        "hra",
+        "cla",
+        "medAllow",
+        "transAllow",
+        "bookAllow",
+        "nppAllow",
+        "esisAllow",
+        "gross",
+        "recoveryOfPay",
+        "specialPay",
+        "washingAllow",
+        "nursingAllow",
+        "uniformAllow"
+      ],
+      "deductionFieldsFound": [
+        "incomeTax",
+        "profTax",
+        "gpfReg",
+        "npsReg",
+        "govtFund",
+        "govtSaving",
+        "rnb",
+        "gpfClass4"
+      ]
+    }
+  },
+  "metadata": {
+    "processedAt": "2026-02-22T10:28:18.818Z",
+    "month": "February-2026",
+    "billNo": "Vad0609004303",
+    "office": "ESIS General Hospital (Vadodara)",
+    "files": [
+      {
+        "file": "Pay Bill Inner Deduction Report (1).pdf",
+        "type": "deduction",
+        "month": "February-2026",
+        "billNo": "Vad0609004303",
+        "recordCount": 45
+      },
+      {
+        "file": "Pay Bill Inner Deduction Report (2).pdf",
+        "type": "deduction",
+        "month": "February-2026",
+        "billNo": "Vad0609004304",
+        "recordCount": 3
+      },
+      {
+        "file": "Pay Bill Inner Deduction Report (3).pdf",
+        "type": "deduction",
+        "month": "February-2026",
+        "billNo": "Vad0609004305",
+        "recordCount": 2
+      },
+      {
+        "file": "Pay Bill Inner Deduction Report.pdf",
+        "type": "deduction",
+        "month": "February-2026",
+        "billNo": "Vad0609004302",
+        "recordCount": 24
+      },
+      {
+        "file": "Pay Bill Inner Earning Report (1).pdf",
+        "type": "earning",
+        "month": "February-2026",
+        "billNo": "Vad0609004303",
+        "recordCount": 45
+      },
+      {
+        "file": "Pay Bill Inner Earning Report (2).pdf",
+        "type": "earning",
+        "month": "February-2026",
+        "billNo": "Vad0609004304",
+        "recordCount": 3
+      },
+      {
+        "file": "Pay Bill Inner Earning Report (3).pdf",
+        "type": "earning",
+        "month": "February-2026",
+        "billNo": "Vad0609004305",
+        "recordCount": 2
+      },
+      {
+        "file": "Pay Bill Inner Earning Report.pdf",
+        "type": "earning",
+        "month": "February-2026",
+        "billNo": "Vad0609004302",
+        "recordCount": 24
+      }
+    ],
+    "totalEmployees": 74
+  }
+}
